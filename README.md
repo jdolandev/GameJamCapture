@@ -25,7 +25,7 @@ Installation
 --------------
 
 ```sh
-git clone [git-repo-url] gamejamcap
+git clone https://github.com/jdolandev/GameJamCapture.git gamejamcap
 cd gamejamcap
 javac gamejamcap.java
 java -jar gamejamcap
